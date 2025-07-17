@@ -10,7 +10,7 @@ This project uses JSX, Vite, React, etc., directly opening index.html won’t wo
 
 ---
 
-🛠 If It's a React / Vite Project
+🛠 It's a React / Vite Project
 
 so 
 
