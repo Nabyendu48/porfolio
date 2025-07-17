@@ -1,4 +1,4 @@
-# porfolio Website
+# portfolio Website
 To view your portfolio website  on Google Chrome, follow these simple steps:
 
 
